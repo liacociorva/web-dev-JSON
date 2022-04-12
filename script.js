@@ -7,7 +7,7 @@ function printToPage(incoming) {
 let jsonDatabase = [
   {
     "Name" : "Oana",
-    "pictureURL" : "mami.jpg",
+    "pictureURL" : "mami.JPG",
     "Food" : "soba",
     "Object" : "knitting book",
     "Color": "#57C9EC",
@@ -31,7 +31,7 @@ let jsonDatabase = [
   },
   {
     "Name" : "Victor",
-    "pictureURL" : "victor.jpeg",
+    "pictureURL" : "victor.JPEG",
     "Food" : "pomegranate",
     "Object" : "Rubik's cube",
      "Color": "#7662FC",
